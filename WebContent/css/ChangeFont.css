@@ -1,0 +1,32 @@
+.sliders {
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+	width: 210px;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+.sliders dt, dt {
+	float: left;
+	clear: left;
+	width: 50px;
+	height: 40px;
+	line-height: 40px;
+}
+
+.sliders dd, dd {
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	margin: 0;
+}
+
+.centerBox{
+	background-color: #ffff99;
+	margin-top: 20px;
+	align: center;
+	border: solid;
+	border-width: 1px;
+	border-color: #333399	
+}

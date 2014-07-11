@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'Akronim';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Akronim'), local('Akronim-Regular'), url(http://themes.googleusercontent.com/static/fonts/akronim/v1/fJYaXTH6z-iiw8_UeEYH1g.woff) format('woff');
+}
+@font-face {
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Architects Daughter'), local('ArchitectsDaughter'), url(http://themes.googleusercontent.com/static/fonts/architectsdaughter/v3/RXTgOOQ9AAtaVOHxx0IUBOkI_DLF4EgbZt3mhU8gQFo.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arizonia';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arizonia'), local('Arizonia-Regular'), url(http://themes.googleusercontent.com/static/fonts/arizonia/v3/8Usm7f8XTsZinW2e-ZMd5fesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Bonbon';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bonbon'), local('Bonbon-Regular'), url(http://themes.googleusercontent.com/static/fonts/bonbon/v2/hOqJBDKovmA8TS8zD7XUXA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Elsie';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Elsie'), local('Elsie-Regular'), url(http://themes.googleusercontent.com/static/fonts/elsie/v1/GwrPfukf41qtIWgG_HoiUA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Faster One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Faster One'), local('FasterOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/fasterone/v1/R45a6_a3GGq28ugU8uxGWRsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Frijole';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Frijole'), url(http://themes.googleusercontent.com/static/fonts/frijole/v2/JMJmIdqpEk7-RyNfk_4Nrw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Hanalei';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hanalei'), local('Hanalei-Regular'), url(http://themes.googleusercontent.com/static/fonts/hanalei/v1/rTYF4iXEZUleQTEg0qtBHw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Joti One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Joti One'), local('JotiOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/jotione/v1/LVl1n76aEips1R1baeB3RPesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Macondo Swash Caps';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Macondo Swash Caps'), local('MacondoSwashCaps-Regular'), url(http://themes.googleusercontent.com/static/fonts/macondoswashcaps/v1/SsSR706z-MlvEH7_LS6JAOSDC2jTrcFnxhGet2QLr3g.woff) format('woff');
+}
+@font-face {
+  font-family: 'Merienda';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merienda'), local('Merienda-Regular_0_wt'), url(http://themes.googleusercontent.com/static/fonts/merienda/v1/4NYVQDcgs3Fbi_xdFMC7lPesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Princess Sofia';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Princess Sofia'), local('PrincessSofia'), url(http://themes.googleusercontent.com/static/fonts/princesssofia/v1/8g5l8r9BM0t1QsXLTajDe5X6VkmL3h9uMYskRVF95d8.woff) format('woff');
+}
+@font-face {
+  font-family: 'Smokum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Smokum'), local('Smokum-Regular'), url(http://themes.googleusercontent.com/static/fonts/smokum/v3/NUdvwLOnBJ8Rm0W3WYEzYQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Snowburst One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Snowburst One'), local('SnowburstOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/snowburstone/v1/zSQzKOPukXRux2oTqfYJjPn8qdNnd5eCmWXua5W-n7c.woff) format('woff');
+}
+@font-face {
+  font-family: 'Stalinist One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Stalinist One'), local('StalinistOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/stalinistone/v1/ltOD4Zj3WJDXYjAIR-9vZvn8qdNnd5eCmWXua5W-n7c.woff) format('woff');
+}
+@font-face {
+  font-family: 'The Girl Next Door';
+  font-style: normal;
+  font-weight: 400;
+  src: local('The Girl Next Door'), local('TheGirlNextDoor'), url(http://themes.googleusercontent.com/static/fonts/thegirlnextdoor/v4/cWRA4JVGeEcHGcPl5hmX7rOFxJ5Ig03puUh67ume3us.woff) format('woff');
+}
+@font-face {
+  font-family: 'Vampiro One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vampiro One'), local('VampiroOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/vampiroone/v1/Ho2Xld8UbQyBA8XLxF1_NYbN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
